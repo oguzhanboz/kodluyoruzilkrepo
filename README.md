@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![ilkrepo.png]
+![](ilkrepo.png)
 
 ## Installation
 Öncelikle projeyi clonelayın.
